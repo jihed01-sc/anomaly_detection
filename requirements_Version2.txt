@@ -6,4 +6,4 @@ seaborn
 matplotlib
 joblib
 streamlit
-px
+plotly
