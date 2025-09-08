@@ -1,0 +1,39 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Model artifacts (keep the main model file)
+*.pkl
+temp_model*
+
+# Data files
+*.csv
+*.txt
+*.zip
+KDD+.txt
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+logs/
